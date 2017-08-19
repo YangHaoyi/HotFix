@@ -4,9 +4,9 @@ apply from: 'tinker-support.gradle'
 
 android {
     compileSdkVersion 25
-    buildToolsVersion "25.0.2"
+    buildToolsVersion "25.0.1"
     defaultConfig {
-        applicationId "com.yanghaoyi.hotfix1"
+        applicationId "com.yanghaoyi.hotfix"
         minSdkVersion 15
         targetSdkVersion 25
         versionCode 1

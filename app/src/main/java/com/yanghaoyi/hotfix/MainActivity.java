@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         Beta.applyDownloadedPatch();
 
         TextView tvTest = (TextView) findViewById(R.id.tvTest);
-        tvTest.setText("第二次运行");
+        tvTest.setText("修复完成");
 
 
     }
